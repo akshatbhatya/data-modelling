@@ -1,0 +1,47 @@
+# Ignore all .env files
+.env
+
+# Ignore all node_modules folders
+node_modules/
+
+# Ignore all build folders
+build/
+
+# Ignore all coverage folders
+coverage/
+
+# Ignore all dist folders
+dist/
+
+# Ignore all tmp folders
+tmp/
+
+# Ignore all log files
+*.log
+
+# Ignore all test files
+*.test.js
+*.test.ts
+*.test.jsx
+*.test.tsx
+
+# Ignore all snapshot files
+*.snap
+
+# Ignore all coverage files
+*.cov
+
+# Ignore all debug files
+*.debug
+
+# Ignore all Visual Studio Code files
+.vscode/
+
+# Ignore all IntelliJ IDEA files
+.idea/
+
+# Ignore all yarn files
+yarn.lock
+
+# Ignore all pnpm files
+pnpm-lock.yaml
